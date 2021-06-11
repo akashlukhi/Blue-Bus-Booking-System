@@ -4,6 +4,8 @@ Database Configuration
 
 Open phpmyadmin
 Create Database�db with user = 'akash' and password = 'AKlukhi@123'
+
+
 create for Tables wich are listed below:
   1) users(user_name varchar(20) primary key, password varchar(20), email_id varchar(20)).
   2) passanger_details(id varchar(20) primary key, seat_no varchar(20), passanger_name varchar(20), email_id varchar(40), mobile_no int(10),age int(10),gender varchar(20),booked_by varchar(20),source varchar(20),destination varchar(20),bus_plate_no varchar(20),bus_name varchar(20)).
